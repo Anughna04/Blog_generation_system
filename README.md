@@ -21,7 +21,7 @@ Ready for deployment with Streamlit or Flask (optional)
 ![Flowchart](Flowchart.jpg)
 
 ## System workflow
-![Flowchart](Sequence_diagram.jpg)
+![Flowchart](Sequence%20diagram.jpg)
 
 
 ## Demo Video
