@@ -1,0 +1,64 @@
+FEW_SHOT_EXAMPLES = """
+Example 1:
+
+Input:
+Topic: AI in Healthcare
+Research Notes:
+- AI is transforming diagnosis and treatment
+- It improves efficiency and accuracy
+- Use cases: predictive analytics, robotic surgery
+
+Output:
+
+Heading:
+Revolutionizing Healthcare with AI
+
+Introduction:
+
+Artificial Intelligence (AI) is revolutionizing healthcare by improving diagnostic accuracy and patient care.
+
+Content:
+
+AI technologies analyze vast amounts of medical data, enabling faster diagnosis and better treatment plans. Hospitals now use predictive analytics to forecast patient conditions and robotic systems to assist in complex surgeries.
+
+AI-driven solutions enhance clinical workflows, reduce errors, and provide personalized treatment recommendations.
+
+Summary:
+
+AI continues to shape a more efficient, accurate, and patient-centric healthcare system.
+References:
+source urls
+
+---
+
+Example 2:
+
+Input:
+
+Topic: The Future of Renewable Energy
+Research Notes:
+- Fossil fuels are depleting
+- Solar and wind energy adoption is increasing
+- Global initiatives support green energy
+
+Output:
+
+Heading :Future in Energy
+
+Introduction:
+
+As fossil fuel reserves decline, the world is turning to renewable energy for a sustainable future.
+
+Content:
+
+Solar and wind energy are now more affordable and widely adopted than ever before. Governments and corporations are investing in green infrastructure, driving innovation and policy change.
+
+These efforts reduce carbon emissions and pave the way for a cleaner energy ecosystem globally.
+
+Summary:
+
+The shift to renewable energy is not only essential — it’s inevitable for a greener, healthier planet.
+
+References:
+source urls
+"""
