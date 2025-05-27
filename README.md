@@ -5,17 +5,17 @@ This project is an AI-powered automated blog generation system that takes a user
 
 ## 📌Features
 
-🔤 Generate blog posts for any given topic
+✦ 🔤 Generate blog posts for any given topic
 
- Uses powerful LLM: LLaMA3-70B via ChatGroq
+✦ Uses powerful LLM: LLaMA3-70B via ChatGroq
 
- Real-time web search and Wikipedia summarization
+✦ Real-time web search and Wikipedia summarization
 
-📄 Output includes: Heading, Introduction, Content Sections, Challenges, Summary, References
+✦ 📄 Output includes: Heading, Introduction, Content Sections, Challenges, Summary, References
 
-Modular codebase for easy customization and upgrades
+✦ Modular codebase for easy customization and upgrades
 
-Ready for deployment with Streamlit or Flask (optional)
+✦ Ready for deployment with Streamlit or Flask (optional)
 
 ## Flowchart
 ![Flowchart](Flowchart.jpg)
@@ -26,7 +26,6 @@ Ready for deployment with Streamlit or Flask (optional)
 
 ## Demo Video
 [ Click here to watch the demo](https://drive.google.com/file/d/1iFKv3WPuFu5PU2KD6VahZW_qJNY_bBAK/view?usp=sharing)
-
 
 
       
@@ -60,25 +59,25 @@ Ready for deployment with Streamlit or Flask (optional)
 
        GROQ_API_KEY=your_groq_api_key_here
 
+## Usage guidelines
 
-## Usage
-✦ Enter a valid YouTube channel URL or ID in the app input box.
+1.Run main.py in the terminal
+       
+       python main.py
 
-✦ The app fetches the latest 5 videos and their comments.
+2.To get the blog,enter the required topic 
 
-✦ Sentiment analysis breaks down viewer feedback into positive and negative comments.
+       Topic : your_required_topic
 
-✦ The Groq LLaMA 3 model generates a tailored content strategy to optimize your channel growth.
-
-✦ Results are displayed with video titles, sentiment stats, and strategic recommendations.
+3. After collecting research by agentexecutot chain,blog with sections Header,Introduction,Content and Summary will be displayed as output
 
 ## Tools & Technologies Used
 
- Language Model :	LLaMA3-70B via ChatGroq
-🔗 Orchestration : LangChain
-🌐 Search Tools :	DuckDuckGo, Wikipedia API
-Programming Language :	Python
- Deployment	Optional: Streamlit / FastAPI
+✦ Language Model :	LLaMA3-70B via ChatGroq
+✦ 🔗 Orchestration : LangChain
+✦ 🌐 Search Tools :	DuckDuckGo, Wikipedia API
+✦ Programming Language :	Python
+✦ Deployment	Optional: Streamlit / FastAPI
 
 ## Sample Input
      /Users/gayathrianughna/PycharmProjects/Blog_generator/venv/bin/python /Users/gayathrianughna/PycharmProjects/Blog_generator/main.py 
@@ -120,7 +119,7 @@ Prompt formatting to ensure logical blog flow and a well structured blog
 
 Managing inconsistency in real-time web search results
 
-##💡 Suggestions for Improvement
+## 💡Suggestions for Improvement
 
 Add user options for tone and format (e.g., academic, casual)
 
