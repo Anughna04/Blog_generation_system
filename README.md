@@ -1,7 +1,7 @@
 # **💬Blog_generation_system**
 
 ## Overview 
-This project is an AI-powered automated blog generation system that takes a user-provided topic and generates high-quality, structured blog posts using LLaMA3-70B via Groq, LangChain agents, and external tools like Wikipedia and DuckDuckGo.It’s built for researchers, content creators, marketers, and educators who want quick, insightful blogs on any topic — powered by modern LLMs and real-time search.
+This project is an AI-powered automated blog generation system that takes a user-provided topic and generates high-quality, structured blog posts using LLaMA3-70B via Groq, LangChain agents, and external tools like Wikipedia and DuckDuckGo.It leverages RAG (Retrieval-Augmented Generation) to enhance blog quality by enriching prompts with real-time factual data before content generation.It’s built for researchers, content creators, marketers, and educators who want quick, insightful blogs on any topic — powered by modern LLMs and dynamic information retrieval.
 
 ## 📌Features
 
