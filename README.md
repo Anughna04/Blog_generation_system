@@ -73,11 +73,11 @@ This project is an AI-powered automated blog generation system that takes a user
 
 ## Tools & Technologies Used
 
-✦ Language Model :	LLaMA3-70B via ChatGroq
-✦ 🔗 Orchestration : LangChain
-✦ 🌐 Search Tools :	DuckDuckGo, Wikipedia API
-✦ Programming Language :	Python
-✦ Deployment	Optional: Streamlit / FastAPI
+✦ Language Model : LLaMA3-70B via ChatGroq
+✦ Orchestration 🔗: LangChain
+✦ Search Tools🌐:	DuckDuckGo, Wikipedia API
+✦ Programming Language :Python
+✦ Deployment Optional: Streamlit / FastAPI
 
 ## Sample Input
      /Users/gayathrianughna/PycharmProjects/Blog_generator/venv/bin/python /Users/gayathrianughna/PycharmProjects/Blog_generator/main.py 
