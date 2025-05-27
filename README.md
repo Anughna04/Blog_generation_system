@@ -18,10 +18,10 @@ Modular codebase for easy customization and upgrades
 Ready for deployment with Streamlit or Flask (optional)
 
 ## Flowchart
-![Flowchart](flowchart.png)
+![Flowchart](Flowchart.jpg)
 
 ## System workflow
-![Flowchart](sequence.png)
+![Flowchart](Sequence_diagram.jpg)
 
 
 ## Demo Video
